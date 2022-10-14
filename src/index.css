@@ -1,0 +1,27 @@
+div.author{
+  display: flex;
+  align-items: center;
+}
+div.img-holder{
+  width: 40px;
+}
+h2{
+  font-size: 18px;
+}
+div.main{
+  width: 500px;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 12px;
+  background-color: rgb(252, 252, 252);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+h1 {
+  font-size: 20px;
+}
+tim {
+  margin-left: 42px;
+  margin-top: -13px;
+  font-size: 11px;
+}
